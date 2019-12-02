@@ -1,0 +1,6 @@
+package types
+
+const (
+	GetDevicesURL = "/devices"
+	DeviceAuthURL = "/devices/auth"
+)
